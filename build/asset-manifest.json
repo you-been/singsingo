@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3dc0d9b.css",
+    "main.js": "/static/js/main.2fd12816.js",
+    "static/media/memo_green.svg": "/static/media/memo_green.408604d15e1b638b392f.svg",
+    "static/media/search.svg": "/static/media/search.96f7e44b2ad829e71815.svg",
+    "index.html": "/index.html",
+    "static/media/foodDate_drop.svg": "/static/media/foodDate_drop.789f78ed89fa42c314b0.svg",
+    "static/media/food_back.svg": "/static/media/food_back.73b312f35df6dfe1ca76.svg",
+    "static/media/fridge_memo1.svg": "/static/media/fridge_memo1.7615883cb414825ea3c7.svg",
+    "static/media/memo_orange.svg": "/static/media/memo_orange.d9fdebd9e53e80654754.svg",
+    "static/media/fridge_memo3.svg": "/static/media/fridge_memo3.6d25136df7d1a79e5171.svg",
+    "static/media/fridge_memo2.svg": "/static/media/fridge_memo2.43347bd8e5d53f521464.svg",
+    "main.e3dc0d9b.css.map": "/static/css/main.e3dc0d9b.css.map",
+    "main.2fd12816.js.map": "/static/js/main.2fd12816.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3dc0d9b.css",
+    "static/js/main.2fd12816.js"
+  ]
+}
